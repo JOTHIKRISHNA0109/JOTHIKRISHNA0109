@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow(Keras) and Power BI.**
 
-- 👯 I’m currently a member of **Machine Learning for the Design of Mechanical Materials Lab(MLDMM)**
+- 👯 I’m currently a Student Staff Researcher at **Machine Learning for the Design of Mechanical Materials Lab(MLDMM).**
 
 - 💬 Ask me about **Python and Deep Learning.**
 
