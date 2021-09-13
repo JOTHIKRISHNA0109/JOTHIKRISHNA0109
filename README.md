@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Jothikrishna B</h1>
 <h3 align="center">A Deep Learning and Python enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **Treatment Prediction of Atherosclerosis of Coronary Arteries using Deep Learning.**
+- 🔭 I’m currently learning **Natural Language Processing.**
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow(Keras) and Power BI.**
 
