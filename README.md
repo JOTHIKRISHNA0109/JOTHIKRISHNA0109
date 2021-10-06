@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Natural Language Processing.**
 
-- 🌱 I’m currently learning **Deep Learning, Tensorflow(Keras) and Power BI.**
+- 🌱 I’m intrested in **Deep Learning, Tensorflow(Keras) and Power BI.**
 
 - 👯 I’m currently a Student Staff Researcher at **Machine Learning for the Design of Mechanical Materials Lab(MLDMM).**
 
