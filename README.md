@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello 👋, I'm Jothikrishna B</h1>
+<h1 align="center">Hello 👋, I'm Jothi krishna </h1>
 <h3 align="center">A Deep Learning and Python enthusiast from India.</h3>
 
 - 🔭 I’m currently learning **Natural Language Processing.**
